@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0002-add-two-numbers) |
+| [1622-fancy-sequence](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1622-fancy-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0242-valid-anagram) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
