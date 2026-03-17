@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## String
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->
