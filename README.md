@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -183,4 +184,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
