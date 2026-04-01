@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0238-product-of-array-except-self) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1622-fancy-sequence](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
