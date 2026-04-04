@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0424-longest-repeating-character-replacement) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Union-Find
