@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2463-minimum-total-distance-traveled](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2906-construct-product-matrix) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2463-minimum-total-distance-traveled](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
