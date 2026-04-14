@@ -267,4 +267,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
