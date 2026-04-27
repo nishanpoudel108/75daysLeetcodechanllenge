@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0015-3sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0074-search-a-2d-matrix) |
