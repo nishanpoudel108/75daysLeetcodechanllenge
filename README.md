@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0169-majority-element) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0074-search-a-2d-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1559-detect-cycles-in-2d-grid) |
