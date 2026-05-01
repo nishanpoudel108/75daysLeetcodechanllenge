@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0643-maximum-average-subarray-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0396-rotate-function](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0396-rotate-function](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2463-minimum-total-distance-traveled) |
