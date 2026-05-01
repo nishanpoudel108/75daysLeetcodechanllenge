@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0739-daily-temperatures) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0874-walking-robot-simulation) |
 | [2615-sum-of-distances](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0560-subarray-sum-equals-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2906-construct-product-matrix) |
