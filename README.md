@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0396-rotate-function](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2463-minimum-total-distance-traveled) |
