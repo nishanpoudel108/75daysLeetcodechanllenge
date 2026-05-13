@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0904-fruit-into-baskets) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3488-closest-equal-element-queries) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0560-subarray-sum-equals-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2906-construct-product-matrix) |
