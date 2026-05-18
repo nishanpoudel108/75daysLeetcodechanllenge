@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1306-jump-game-iii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0567-permutation-in-string) |
 | [0874-walking-robot-simulation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0904-fruit-into-baskets) |
+| [1345-jump-game-iv](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2784-check-if-array-is-good) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0226-invert-binary-tree) |
 | [1306-jump-game-iii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
