@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0283-move-zeroes) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0394-decode-string) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0212-word-search-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0212-word-search-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Geometry
 |  |
@@ -504,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
