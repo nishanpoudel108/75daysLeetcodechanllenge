@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0739-daily-temperatures) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0621-task-scheduler) |
 | [0874-walking-robot-simulation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0904-fruit-into-baskets) |
 | [1345-jump-game-iv](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1345-jump-game-iv) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1340-jump-game-v](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1046-last-stone-weight) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0621-task-scheduler) |
 | [2833-furthest-point-from-origin](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
@@ -304,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0621-task-scheduler) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2078-two-furthest-houses-with-different-colors) |
