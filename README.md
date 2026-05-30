@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3161-block-placement-queries) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -578,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0997-find-the-town-judge) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
