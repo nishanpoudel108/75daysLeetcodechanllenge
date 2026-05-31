@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2126-destroying-asteroids) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2126-destroying-asteroids) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2784-check-if-array-is-good) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Two Pointers
