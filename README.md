@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0997-find-the-town-judge) |
 | [1345-jump-game-iv](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Hash Function
 |  |
 | ------- |
