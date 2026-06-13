@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3838-weighted-word-mapping](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3838-weighted-word-mapping) |
 ## Union-Find
 |  |
 | ------- |
