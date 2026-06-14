@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/0739-daily-temperatures) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/nishanpoudel108/75daysLeetcodechanllenge/tree/master/2751-robot-collisions) |
 ## Queue
 |  |
